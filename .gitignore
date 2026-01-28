@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+.env
+.vscode/
+.idea/
+*.pdf
+transcript_calculator.spec
+/dist
+/build
+debug_parser.py

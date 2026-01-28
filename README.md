@@ -9,17 +9,17 @@
 İzmir Yüksek Teknoloji Enstitüsü (İYTE) için PDF transkriptlerini otomatik olarak ayrıştıran ve GNO (Genel Not Ortalaması) hesaplayan bir masaüstü uygulaması.
 
 ### Hızlı Başlangıç (Windows)
-Python kurulumuyla uğraşmak istemiyorsanız, [Releases](https://github.com/YOUR_USERNAME/transcript-calculator/releases) sayfasından son sürüm `.exe` dosyasını indirip kullanmaya başlayabilirsiniz.
+Python kurulumuyla uğraşmak istemiyorsanız, [Releases](https://github.com/Kerem-Aslan/iyte-transcript-calculator/releases) sayfasından son sürüm `.exe` dosyasını indirip kullanmaya başlayabilirsiniz.
 
 ### Kurulum
 
 1. Bu depoyu klonlayın:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/transcript-calculator.git
+   git clone https://github.com/Kerem-Aslan/iyte-transcript-calculator.git
    ```
 2. Proje dizinine gidin:
    ```bash
-   cd transcript-calculator
+   cd iyte-transcript-calculator
    ```
 3. Gerekli kütüphaneleri yükleyin:
    ```bash
@@ -54,11 +54,11 @@ If you prefer not to use Python, you can download the latest standalone `.exe` f
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/transcript-calculator.git
+   git clone https://github.com/Kerem-Aslan/iyte-transcript-calculator.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd transcript-calculator
+   cd iyte-transcript-calculator
    ```
 3. Install the required dependencies:
    ```bash

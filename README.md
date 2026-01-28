@@ -8,10 +8,10 @@
 
 İzmir Yüksek Teknoloji Enstitüsü (İYTE) için PDF transkriptlerini otomatik olarak ayrıştıran ve GNO (Genel Not Ortalaması) hesaplayan bir masaüstü uygulaması.
 
-### � Hızlı Başlangıç (Windows)
+### Hızlı Başlangıç (Windows)
 Python kurulumuyla uğraşmak istemiyorsanız, [Releases](https://github.com/YOUR_USERNAME/transcript-calculator/releases) sayfasından son sürüm `.exe` dosyasını indirip kullanmaya başlayabilirsiniz.
 
-### �🛠️ Kurulum
+### Kurulum
 
 1. Bu depoyu klonlayın:
    ```bash
@@ -30,7 +30,7 @@ Python kurulumuyla uğraşmak istemiyorsanız, [Releases](https://github.com/YOU
    python transcript_calculator.py
    ```
 
-### 📖 Kullanım
+### Kullanım
 
 1. UBYS üzerinden transkriptinizi PDF olarak indirin.
 2. UBYS Transkript sayfasında "Yazdır" butonuna tıklayıp, çıkan dokümanı PDF olarak kaydedin.
@@ -47,10 +47,10 @@ Python kurulumuyla uğraşmak istemiyorsanız, [Releases](https://github.com/YOU
 
 A modern desktop application designed to parse PDF transcripts and calculate GPA automatically for IZTECH students. Built with Python and CustomTkinter.
 
-### 🚀 Quick Start (Windows)
+### Quick Start (Windows)
 If you prefer not to use Python, you can download the latest standalone `.exe` file from the [Releases](https://github.com/YOUR_USERNAME/transcript-calculator/releases) page and run it immediately.
 
-### 🛠️ Installation
+### Installation
 
 1. Clone this repository:
    ```bash
@@ -69,7 +69,7 @@ If you prefer not to use Python, you can download the latest standalone `.exe` f
    python transcript_calculator.py
    ```
 
-### 📖 Usage
+### Usage
 
 1. Download your transcript PDF from UBYS.
 2. On the UBYS Transcript page, click "Print" and save the document as a PDF.
@@ -80,6 +80,6 @@ If you prefer not to use Python, you can download the latest standalone `.exe` f
 - You can **delete courses** by selecting them and clicking the "Delete Selected" button.
 - You can **add new courses** by clicking the "Add New Course" button.
 
-### 📸 Preview
+### Preview
 
 ![App Preview](./screenshots/preview.png)
